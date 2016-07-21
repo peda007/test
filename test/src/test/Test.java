@@ -14,7 +14,15 @@ import java.lang.annotation.Target;
 public class Test {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchFieldException, SecurityException, IllegalArgumentException, IllegalAccessException, InstantiationException {
-		
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
+		System.out.println("success");
 		
 		/*
 		Member t_mem = new Member();
