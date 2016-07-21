@@ -25,16 +25,9 @@
 	</code>
 </pre> 
 
-[To Google!][gid]
-[To NAVER!][nid]
-
-[nid]: http://naver.com "go naver"
-<br/>
-[gid]: http://google.com "go google"
-
 [NAVER][k]
 [k]: http://naver.com "한글 지원이"
 
-syntax: [네이버](http://www.naver.com)
+[네이버](http://www.naver.com)
 	
 Test END
