@@ -33,10 +33,10 @@
 ## Image Test
 	- 기본  이미지
 ![penguin](https://github.com/peda007/test/blob/master/Penguins.jpg)
-	`- 경로 변경 이미지`
-![penguin](/Penguins.jpg)
-	`- 크기 변경 이미지`<br/>
-<img src="https://github.com/peda007/test/blob/master/Penguins.jpg" width="100px" height="60px"/>
+	```- 경로 변경 이미지```
+![penguin](/img/Penguins.jpg)
+	```- 크기 변경 이미지<br/>```
+<img src="https://github.com/peda007/test/blob/master/img/Penguins.jpg" width="100px" height="60px"/>
 
 
 Test END
