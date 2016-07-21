@@ -31,7 +31,12 @@
 [네이버](http://www.naver.com)
 
 ## Image Test
-![penguin](https://github.com/peda007/test/blob/master/Penguins.jpg)
+	- 기본  이미지
+		![penguin](https://github.com/peda007/test/blob/master/Penguins.jpg)
+	- 경로 변경 이미지
+		![penguin](https://github.com/peda007/test/blob/master/Penguins.jpg)
+	- 크기 변경 이미지
+		<img src="https://github.com/peda007/test/blob/master/Penguins.jpg" width="100px" height="60px"/>
 
-	
+
 Test END
