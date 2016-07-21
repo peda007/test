@@ -29,5 +29,9 @@
 [k]: http://naver.com "한글 지원이"
 
 [네이버](http://www.naver.com)
+
+## Image Test
+![penguin](https://github.com/peda007/test/img/penguin.jpg)
+
 	
 Test END
