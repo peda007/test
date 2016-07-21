@@ -25,13 +25,15 @@
 	</code>
 </pre> 
 
+[To Google!][gid]
+[To NAVER!][nid]
 
-[link keyword][id]
-[id]: URL "Optional Title here"
+[nid]: http://naver.com "go naver"
+[gid]: http://google.com "go google"
 
 Link: [Google][googlelink]
-[googlelink]: naver.com "한글 지원이"
+[googlelink]: http://naver.com "한글 지원이"
 
-syntax: [네이버](www.naver.com)
+syntax: [네이버](http://www.naver.com)
 	
 Test END
