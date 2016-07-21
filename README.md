@@ -29,10 +29,11 @@
 [To NAVER!][nid]
 
 [nid]: http://naver.com "go naver"
+<br/>
 [gid]: http://google.com "go google"
 
-Link: [Google][googlelink]
-[googlelink]: http://naver.com "한글 지원이"
+[NAVER][k]
+[k]: http://naver.com "한글 지원이"
 
 syntax: [네이버](http://www.naver.com)
 	
