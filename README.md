@@ -31,7 +31,7 @@
 [네이버](http://www.naver.com)
 
 ## Image Test
-![penguin](/img/Penguins.jpg)
+![penguin](https://github.com/peda007/test/blob/master/Penguins.jpg)
 
 	
 Test END
