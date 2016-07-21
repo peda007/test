@@ -7,6 +7,9 @@
 	- 주요 기능
 		- Function A
 		- Function B
+		- Function C(Latest)
 		
 ## Downloads
  - [Latest Release](https://github.com/peda007/test/)
+
+("    `<font color='red'>test</font>`")
