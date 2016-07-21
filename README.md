@@ -12,6 +12,8 @@
 ## Downloads
  - [Latest Release](https://github.com/peda007/test/)
 
+<pre>
+	<code>
 	<font color='red'>test</font>
 	var i=0;
 	
@@ -20,5 +22,7 @@
 	} else {
 		return 0;
 	}
+	</code>
+</pre> 
 	
 Test END
