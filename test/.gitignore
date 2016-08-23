@@ -1,3 +1,5 @@
 /bin/
 *.jpg
-ddd
+.classpath
+.project
+.settings
